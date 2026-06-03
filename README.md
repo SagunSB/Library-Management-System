@@ -1,6 +1,6 @@
 # Library Management System
 
-A full-stack Library Management System built with **HTML, CSS, JavaScript, PHP**, and **MySQL**.
+A Full-Stack Library Management System built with **HTML, CSS, JavaScript, PHP**, and **MySQL**.
 
 ---
 
@@ -18,7 +18,6 @@ A full-stack Library Management System built with **HTML, CSS, JavaScript, PHP**
 
 ## Project Structure
 
-## Project Structure
 
 ```text
 librarydbms/
@@ -32,13 +31,10 @@ librarydbms/
 ├── signup.php             # User registration
 ├── student_dashboard.php  # Student panel
 ├── view_books.php         # View available books
-└── ...
-```
 
 
 ##  How to Set It Up (Locally Using XAMPP)
-
-1. Download and install [XAMPP](https://www.apachefriends.org/index.html)
+1. Download and install XAMPP.
 2. Copy the `librarydbms` folder to: C:/xampp/htdocs/
 3. Start **Apache** and **MySQL** from XAMPP Control Panel
 4. Open a browser and go to:  http://localhost/phpmyadmin
