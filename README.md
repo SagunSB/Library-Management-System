@@ -18,18 +18,22 @@ A full-stack Library Management System built with **HTML, CSS, JavaScript, PHP**
 
 ## Project Structure
 
+## Project Structure
+
+```text
 librarydbms/
-├── admin/ # Admin interface
-├── css/ # Stylesheets
-├── database/ # Contains database .sql file
-│ └── librarydb.sql
-├── dbconnect.php # MySQL connection script
-├── index.php # Landing page
-├── login.php # Login logic
-├── signup.php # User registration
-├── student_dashboard.php # Student panel
-├── view_books.php # View available books
-└── ... (other PHP and JS files)
+├── admin/                 # Admin interface
+├── css/                   # Stylesheets
+├── database/
+│   └── librarydb.sql      # Database file
+├── dbconnect.php          # MySQL connection
+├── index.php              # Landing page
+├── login.php              # Login logic
+├── signup.php             # User registration
+├── student_dashboard.php  # Student panel
+├── view_books.php         # View available books
+└── ...
+```
 
 
 ##  How to Set It Up (Locally Using XAMPP)
