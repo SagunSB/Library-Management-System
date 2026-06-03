@@ -18,7 +18,6 @@ A Full-Stack Library Management System built with **HTML, CSS, JavaScript, PHP**
 
 ## Project Structure
 
-
 ```text
 librarydbms/
 ├── admin/                 # Admin interface
@@ -33,7 +32,7 @@ librarydbms/
 ├── view_books.php         # View available books
 
 
-##  How to Set It Up (Locally Using XAMPP)
+Setting Up XAMPP
 1. Download and install XAMPP.
 2. Copy the `librarydbms` folder to: C:/xampp/htdocs/
 3. Start **Apache** and **MySQL** from XAMPP Control Panel
@@ -42,7 +41,7 @@ librarydbms/
 6. Import the SQL file:
 - Go to the **Import** tab
 - Choose: `librarydbms/database/librarydb.sql`
-- Click **Go**
+- Click Go
 7. Run the project by visiting:
 http://localhost/librarydbms
 
